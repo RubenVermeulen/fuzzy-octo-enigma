@@ -1,6 +1,6 @@
 {
-  "name": "@rubenvermeulen/fuzzy-octo-enigma",
-  "version": "1.0.2",
+  "name": "@rubenvermeule/fuzzy-octo-enigma",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
